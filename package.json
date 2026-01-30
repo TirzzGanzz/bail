@@ -1,16 +1,16 @@
 {
-    "name": "kayzennotdev/bail",
-    "version": "1.7.3",
+    "name": "Xynoz-Xnoz/baileys",
+    "version": "1.0.0",
     "description": "Have A Nice Day",
     "keywords": [
         "whatsapp-baileys"
     ],
-    "homepage": "https://github.com/kayzennotdev/bail",
+    "homepage": "https://github.com/Xynoz-Xnoz/baileys",
     "repository": {
-        "url": "https://github.com/kayzennotdev/bail"
+        "url": "https://github.com/Xynoz-Xnoz/baileys"
     },
     "license": "MIT",
-    "author": "kayzennotdev",
+    "author": "Xynoz",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
