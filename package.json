@@ -1,16 +1,16 @@
 {
-    "name": "Xynoz-Xnoz/baileys",
+    "name": "TirzzGanzz/bail",
     "version": "1.0.0",
     "description": "Have A Nice Day",
     "keywords": [
-        "whatsapp-baileys"
+        "whatsapp-bail"
     ],
-    "homepage": "https://github.com/Xynoz-Xnoz/baileys",
+    "homepage": "https://github.com/TirzzGanzz/bail",
     "repository": {
-        "url": "https://github.com/Xynoz-Xnoz/baileys"
+        "url": "https://github.com/TirzzGanzz/bail"
     },
     "license": "MIT",
-    "author": "Xynoz",
+    "author": "TirzzGanzz",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
