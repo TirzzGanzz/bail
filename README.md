@@ -1,7 +1,7 @@
-# WhatsApp Baileys Xynoz
+# WhatsApp Baileys TirzzGanzz
 
 <p align="center">
-  <img src="https://files.catbox.moe/369pux.jpg" alt="Thumbnail" />
+  <img src="https://files.catbox.moe/3ys5a8.jpg" alt="Thumbnail" />
 </p>
 
 WhatsApp Baileys adalah pustaka sumber terbuka yang dirancang untuk membantu pengembang membangun solusi otomatisasi dan integrasi dengan WhatsApp secara efisien dan langsung. Menggunakan teknologi websocket tanpa memerlukan browser, pustaka ini mendukung berbagai fitur seperti manajemen pesan, penanganan obrolan, administrasi grup, serta pesan interaktif dan tombol aksi untuk pengalaman pengguna yang lebih dinamis.
@@ -31,7 +31,7 @@ Mulailah dengan menginstal pustaka melalui pengelola paket pilihan Anda, lalu ik
 ## Cara memakai?
 ```json
 "depencies": {
-  "@whiskeysockets/baileys": "github:Xynoz-Xnoz/baileys"
+  "@whiskeysockets/baileys": "github:TirzzGanzz/bail"
 }
 ```
 ## Import
@@ -106,7 +106,7 @@ await client.sendMessage(m.chat, {
       }
     ],
     newsletter: {
-      newsletterName: "Xynozdev",
+      newsletterName: "TirzzGanzz",
       newsletterJid: "1@newsletter"
     }
   }
