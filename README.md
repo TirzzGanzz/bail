@@ -1,4 +1,4 @@
-# WhatsApp Baileys TirzzGanzz
+# WhatsApp Bail TirzzGanzz
 
 <p align="center">
   <img src="https://files.catbox.moe/3ys5a8.jpg" alt="Thumbnail" />
